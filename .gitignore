@@ -1,0 +1,5 @@
+# weight file
+yolov8n-seg.pt
+venv/
+runs/
+Parking-Lot/
